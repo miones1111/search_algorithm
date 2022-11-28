@@ -131,7 +131,7 @@ namespace SearchAlgo
                 buttons[i].BackColor = System.Drawing.SystemColors.Control;
 
             }
-            label3.Text = "Click where to asign obstacle";
+            label3.Text = "Click number to assign an obstacle";
 
         }
 
